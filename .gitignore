@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Helm dependencies
+charts/
+
+# Temporary files
+*.tmp
+*.bak
